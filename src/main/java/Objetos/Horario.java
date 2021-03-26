@@ -18,7 +18,7 @@ public class Horario {
 
     public Horario() {
     }
-    
+   
     
 
     public int getCodigoHorario() {
@@ -40,6 +40,7 @@ public class Horario {
     public void setTraslape( Boolean ptraslape) {
         this.traslape = ptraslape;
     }
+    
     
     
 }

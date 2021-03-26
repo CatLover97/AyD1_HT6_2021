@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: Proceso.AsignarHorarioTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.062 sec <<< FAILURE! - in Proceso.AsignarHorarioTest
+testHorario  Time elapsed: 0.043 sec  <<< ERROR!
+java.lang.NullPointerException
+	at Proceso.AsignarHorarioTest.testHorario(AsignarHorarioTest.java:44)
+
+testDescripcion  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException
+	at Proceso.AsignarHorarioTest.testDescripcion(AsignarHorarioTest.java:55)
+
